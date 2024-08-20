@@ -4,7 +4,24 @@ namespace Academy.Componentes.Exercicio
 {
     public partial class Exercicio : ContentView
     {
-        // BindableProperty para ExercicioText
+        public Exercicio()
+        {
+            InitializeComponent();
+        }
+
+        private void OnCheckBoxCheckedChanged(object sender, CheckedChangedEventArgs e)
+        {
+            // Se o CheckBox estiver marcado, altere o texto e a cor
+            if (e.Value)
+            {
+                exercicio.TextColor = Colors.Gray;
+            }
+            else
+            {
+                exercicio.TextColor = Colors.White;
+            }
+        }
+
         public static readonly BindableProperty ExercicioTextProperty =
             BindableProperty.Create(
                 nameof(ExercicioText),
@@ -19,7 +36,6 @@ namespace Academy.Componentes.Exercicio
             set => SetValue(ExercicioTextProperty, value);
         }
 
-        // BindableProperty para SeriesText
         public static readonly BindableProperty SeriesTextProperty =
             BindableProperty.Create(
                 nameof(SeriesText),
@@ -32,11 +48,6 @@ namespace Academy.Componentes.Exercicio
         {
             get => (string)GetValue(SeriesTextProperty);
             set => SetValue(SeriesTextProperty, value);
-        }
-
-        public Exercicio()
-        {
-            InitializeComponent();
         }
 
         private static void OnExercicioTextChanged(BindableObject bindable, object oldValue, object newValue)

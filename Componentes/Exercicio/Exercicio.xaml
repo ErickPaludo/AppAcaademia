@@ -15,7 +15,7 @@
                     <RowDefinition Height="Auto" />
                 </Grid.RowDefinitions>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="310" />
+                    <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="Auto" />
                 </Grid.ColumnDefinitions>
 
@@ -44,7 +44,9 @@
                 <CheckBox
                     Grid.RowSpan="2"
                     Grid.Column="1"
-                    VerticalOptions="End" />
+                    VerticalOptions="End" 
+                    CheckedChanged="OnCheckBoxCheckedChanged"
+                    Color="#147C76"/>
 
             </Grid>
 

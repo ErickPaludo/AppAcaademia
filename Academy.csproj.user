@@ -3,11 +3,14 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-android</ActiveDebugFramework>
-    <ActiveDebugProfile>Genymobile Galaxy S23 (Android 13.0 – API 33)</ActiveDebugProfile>
+    <ActiveDebugProfile>Motorola moto g(8) (Android 11.0 – API 30)</ActiveDebugProfile>
     <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
   </PropertyGroup>
   <ItemGroup>
     <MauiXaml Update="Componentes\Exercicio\Exercicio.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="TabPageMenu.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="Treino1.xaml">

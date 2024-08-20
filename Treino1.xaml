@@ -6,8 +6,16 @@
     xmlns:local="clr-namespace:Academy.Componentes.Exercicio"
     Title="Treino1"
     BackgroundColor="#1F2029">
-    <VerticalStackLayout>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Primeiro Border -->
         <Border
+            Grid.Row="0"
             BackgroundColor="#14151C"
             HeightRequest="38"
             Stroke="#50147C76">
@@ -19,7 +27,9 @@
                 VerticalOptions="Center" />
         </Border>
 
+        <!-- Segundo Border -->
         <Border
+            Grid.Row="1"
             Margin="0,10,0,0"
             Padding="10"
             BackgroundColor="#181922"
@@ -30,11 +40,11 @@
                 TextColor="White" />
         </Border>
 
-        <local:Exercicio ExercicioText="Mahoe" SeriesText="1000x45"></local:Exercicio>
-        <local:Exercicio></local:Exercicio>
-        <local:Exercicio></local:Exercicio>
-        <local:Exercicio></local:Exercicio>
+        <!-- ScrollView com StackLayout -->
+        <ScrollView Grid.Row="2">
+            <StackLayout x:Name="Scroll">
 
-
-    </VerticalStackLayout>
+            </StackLayout>
+        </ScrollView>
+    </Grid>
 </ContentPage>

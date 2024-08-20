@@ -66,6 +66,9 @@
 	  <MauiXaml Update="Componentes\Exercicio\Exercicio.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="TabPageMenu.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Treino1.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
