@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\source\\Repos\\Academy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\treino1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\treino3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\componentes\\exercicio\\exercicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:componentes\\exercicio\\exercicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\componentes\\exercicio\\exercicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:componentes\\exercicio\\exercicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\treino1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Treino1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino1.xaml.cs",
+              "RelativeDocumentMoniker": "Treino1.xaml.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino1.xaml.cs",
+              "RelativeToolTip": "Treino1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:07:09.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Componentes\\Exercicio\\Exercicio.xaml.cs",
+              "RelativeDocumentMoniker": "Componentes\\Exercicio\\Exercicio.xaml.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Componentes\\Exercicio\\Exercicio.xaml.cs",
+              "RelativeToolTip": "Componentes\\Exercicio\\Exercicio.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:32:20.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Componentes\\Exercicio\\Exercicio.xaml",
+              "RelativeDocumentMoniker": "Componentes\\Exercicio\\Exercicio.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Componentes\\Exercicio\\Exercicio.xaml",
+              "RelativeToolTip": "Componentes\\Exercicio\\Exercicio.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T23:30:51.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Treino3.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino3.xaml",
+              "RelativeDocumentMoniker": "Treino3.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino3.xaml",
+              "RelativeToolTip": "Treino3.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T22:10:03.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Treino1.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino1.xaml",
+              "RelativeDocumentMoniker": "Treino1.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino1.xaml",
+              "RelativeToolTip": "Treino1.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T22:09:25.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
