@@ -1,38 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Fullsoft\\Estudos\\AppAcaademia\\",
+  "WorkspaceRootPath": "C:\\Users\\erick\\source\\Repos\\Academy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\fullsoft\\estudos\\appacaademia\\tabpagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:tabpagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\fullsoft\\estudos\\appacaademia\\tabpagemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:tabpagemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\fullsoft\\estudos\\appacaademia\\componentes\\exercicio\\exercicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:componentes\\exercicio\\exercicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\fullsoft\\estudos\\appacaademia\\componentes\\exercicio\\exercicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:componentes\\exercicio\\exercicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\fullsoft\\estudos\\appacaademia\\treino1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\fullsoft\\estudos\\appacaademia\\treino1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\treino1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\fullsoft\\estudos\\appacaademia\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\treino1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\tabpagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:tabpagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\treino2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\treino3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\treino3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:treino3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\tabpagemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:tabpagemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\fullsoft\\estudos\\appacaademia\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\componentes\\exercicio\\exercicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:componentes\\exercicio\\exercicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|c:\\users\\erick\\source\\repos\\academy\\componentes\\exercicio\\exercicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3517A1-5F44-45A2-826A-6FB994AF06C1}|Academy.csproj|solutionrelative:componentes\\exercicio\\exercicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erick\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -49,50 +64,102 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Xamarin.Android.Common.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
+              "ViewState": "AQIAAAEKAAAAAAAAAAArwAUKAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-21T00:00:11.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Treino2.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino2.xaml",
+              "RelativeDocumentMoniker": "Treino2.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino2.xaml",
+              "RelativeToolTip": "Treino2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-20T21:07:24.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Exercicio.xaml",
-              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\AppAcaademia\\Componentes\\Exercicio\\Exercicio.xaml",
-              "RelativeDocumentMoniker": "Componentes\\Exercicio\\Exercicio.xaml",
-              "ToolTip": "C:\\Fullsoft\\Estudos\\AppAcaademia\\Componentes\\Exercicio\\Exercicio.xaml",
-              "RelativeToolTip": "Componentes\\Exercicio\\Exercicio.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Title": "TabPageMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\TabPageMenu.xaml",
+              "RelativeDocumentMoniker": "TabPageMenu.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\TabPageMenu.xaml",
+              "RelativeToolTip": "TabPageMenu.xaml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-20T18:47:59.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\AppAcaademia\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Fullsoft\\Estudos\\AppAcaademia\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-20T18:39:14.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\AppAcaademia\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Fullsoft\\Estudos\\AppAcaademia\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T18:39:18.579Z",
+              "WhenOpened": "2024-08-20T18:36:36.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Treino1.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino1.xaml",
+              "RelativeDocumentMoniker": "Treino1.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino1.xaml",
+              "RelativeToolTip": "Treino1.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T22:09:25.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Treino1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino1.xaml.cs",
+              "RelativeDocumentMoniker": "Treino1.xaml.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino1.xaml.cs",
+              "RelativeToolTip": "Treino1.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawBEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:07:09.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Treino3.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino3.xaml",
+              "RelativeDocumentMoniker": "Treino3.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino3.xaml",
+              "RelativeToolTip": "Treino3.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-20T21:08:18.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Treino3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino3.xaml.cs",
+              "RelativeDocumentMoniker": "Treino3.xaml.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Treino3.xaml.cs",
+              "RelativeToolTip": "Treino3.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:09:25.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TabPageMenu.xaml.cs",
-              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\AppAcaademia\\TabPageMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\TabPageMenu.xaml.cs",
               "RelativeDocumentMoniker": "TabPageMenu.xaml.cs",
-              "ToolTip": "C:\\Fullsoft\\Estudos\\AppAcaademia\\TabPageMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\TabPageMenu.xaml.cs",
               "RelativeToolTip": "TabPageMenu.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,68 +168,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TabPageMenu.xaml",
-              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\AppAcaademia\\TabPageMenu.xaml",
-              "RelativeDocumentMoniker": "TabPageMenu.xaml",
-              "ToolTip": "C:\\Fullsoft\\Estudos\\AppAcaademia\\TabPageMenu.xaml",
-              "RelativeToolTip": "TabPageMenu.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-20T18:36:36.477Z",
+              "WhenOpened": "2024-08-20T18:39:14.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Treino1.xaml.cs",
-              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\AppAcaademia\\Treino1.xaml.cs",
-              "RelativeDocumentMoniker": "Treino1.xaml.cs",
-              "ToolTip": "C:\\Fullsoft\\Estudos\\AppAcaademia\\Treino1.xaml.cs",
-              "RelativeToolTip": "Treino1.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T01:07:09.918Z",
+              "DocumentIndex": 9,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-20T20:49:15.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "Exercicio.xaml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Componentes\\Exercicio\\Exercicio.xaml",
+              "RelativeDocumentMoniker": "Componentes\\Exercicio\\Exercicio.xaml",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Componentes\\Exercicio\\Exercicio.xaml",
+              "RelativeToolTip": "Componentes\\Exercicio\\Exercicio.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-20T18:47:59.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Exercicio.xaml.cs",
-              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\AppAcaademia\\Componentes\\Exercicio\\Exercicio.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\Repos\\Academy\\Componentes\\Exercicio\\Exercicio.xaml.cs",
               "RelativeDocumentMoniker": "Componentes\\Exercicio\\Exercicio.xaml.cs",
-              "ToolTip": "C:\\Fullsoft\\Estudos\\AppAcaademia\\Componentes\\Exercicio\\Exercicio.xaml.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\Repos\\Academy\\Componentes\\Exercicio\\Exercicio.xaml.cs",
               "RelativeToolTip": "Componentes\\Exercicio\\Exercicio.xaml.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAABAAAAAyAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwBAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T23:32:20.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Treino1.xaml",
-              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\AppAcaademia\\Treino1.xaml",
-              "RelativeDocumentMoniker": "Treino1.xaml",
-              "ToolTip": "C:\\Fullsoft\\Estudos\\AppAcaademia\\Treino1.xaml",
-              "RelativeToolTip": "Treino1.xaml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-19T22:09:25.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "envioExpedicao_Request (5).json",
-              "DocumentMoniker": "C:\\Users\\Erick\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Erick\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json",
-              "ToolTip": "C:\\Users\\Erick\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json",
-              "RelativeToolTip": "..\\..\\..\\Users\\Erick\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json",
+              "DocumentMoniker": "C:\\Users\\erick\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json",
+              "ToolTip": "C:\\Users\\erick\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\envioExpedicao_Request (5).json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T16:51:27.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T16:51:27.893Z"
             }
           ]
         }

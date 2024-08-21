@@ -12,53 +12,53 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Academy
-build_property.ProjectDir = C:\Fullsoft\Estudos\AppAcaademia\
+build_property.ProjectDir = C:\Users\erick\source\Repos\Academy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Fullsoft/Estudos/AppAcaademia/App.xaml]
+[C:/Users/erick/source/Repos/Academy/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Academy.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Fullsoft/Estudos/AppAcaademia/Componentes/Exercicio/Exercicio.xaml]
+[C:/Users/erick/source/Repos/Academy/Componentes/Exercicio/Exercicio.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Academy.Componentes.Exercicio.Exercicio.xaml
 build_metadata.AdditionalFiles.TargetPath = Componentes\Exercicio\Exercicio.xaml
 build_metadata.AdditionalFiles.RelativePath = Componentes\Exercicio\Exercicio.xaml
 
-[C:/Fullsoft/Estudos/AppAcaademia/Resources/Styles/Colors.xaml]
+[C:/Users/erick/source/Repos/Academy/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Academy.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Fullsoft/Estudos/AppAcaademia/Resources/Styles/Styles.xaml]
+[C:/Users/erick/source/Repos/Academy/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Academy.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Fullsoft/Estudos/AppAcaademia/TabPageMenu.xaml]
+[C:/Users/erick/source/Repos/Academy/TabPageMenu.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Academy.TabPageMenu.xaml
 build_metadata.AdditionalFiles.TargetPath = TabPageMenu.xaml
 build_metadata.AdditionalFiles.RelativePath = TabPageMenu.xaml
 
-[C:/Fullsoft/Estudos/AppAcaademia/Treino1.xaml]
+[C:/Users/erick/source/Repos/Academy/Treino1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Academy.Treino1.xaml
 build_metadata.AdditionalFiles.TargetPath = Treino1.xaml
 build_metadata.AdditionalFiles.RelativePath = Treino1.xaml
 
-[C:/Fullsoft/Estudos/AppAcaademia/Treino2.xaml]
+[C:/Users/erick/source/Repos/Academy/Treino2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Academy.Treino2.xaml
 build_metadata.AdditionalFiles.TargetPath = Treino2.xaml
 build_metadata.AdditionalFiles.RelativePath = Treino2.xaml
 
-[C:/Fullsoft/Estudos/AppAcaademia/Treino3.xaml]
+[C:/Users/erick/source/Repos/Academy/Treino3.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Academy.Treino3.xaml
 build_metadata.AdditionalFiles.TargetPath = Treino3.xaml

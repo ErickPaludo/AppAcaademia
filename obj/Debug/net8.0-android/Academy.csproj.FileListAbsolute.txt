@@ -2077,3 +2077,4 @@ C:\Fullsoft\Estudos\AppAcaademia\obj\Debug\net8.0-android\stamp\_ConvertResource
 C:\Fullsoft\Estudos\AppAcaademia\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Fullsoft\Estudos\AppAcaademia\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Fullsoft\Estudos\AppAcaademia\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\erick\source\Repos\Academy\obj\Debug\net8.0-android\Academy.sourcelink.json
